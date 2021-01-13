@@ -3,4 +3,5 @@
     <string name="felicidades">¡FELICIDADES!</string>
     <string name="string2">{de parte de}</string>
     <string name="string3">Gonzalo </string>
+    <string name="splashText">Cargando.....</string>
 </resources>
